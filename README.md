@@ -3,7 +3,7 @@
 This is my tailwindcss project. I learn by myself
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRyJHpohhanRY3WXX-OYgfeHg84ncR4YMYg&s" alt="Screenshot" style="width: 100%;" />
+<img src="https://wallpapercave.com/wp/wp13639450.jpg" alt="Screenshot" style="width: 100%;" />
 
 ## Project clone
 
