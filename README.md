@@ -2,7 +2,8 @@
 
 This is my tailwindcss project. I learn by myself
 
-![Tailwindcss Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRyJHpohhanRY3WXX-OYgfeHg84ncR4YMYg&s)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRyJHpohhanRY3WXX-OYgfeHg84ncR4YMYg&s" alt="Screenshot" style="width: 100%;" />
 
 ## Project clone
 
